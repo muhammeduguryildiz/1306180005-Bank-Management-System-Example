@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1306180005-proje">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sqlite-jdbc-3.7.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/rs2xml.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
